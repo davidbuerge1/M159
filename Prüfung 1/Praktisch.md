@@ -66,12 +66,10 @@
 
 ## Sie konfigurieren den AD-Schema-Editor als MMC-Snap-In und finden Eigenschaften von Klassen sowie Attributen im Tool.  
 1. Ausführen in Konsole ```regsvr32 schmmgmt.dll ```
-2. öffnen in MMC [![Mein Bild](https://example.com/mein-bild.png)](https://github.com/benutzername/repository)
+2. öffnen in MMC [![Mein Bild](https://github.com/davidbuerge1/M159/blob/main/Bilder/Unbenanntes%20Bild.png)](https://github.com/davidbuerge1/M159/blob/main/Bilder/Unbenanntes%20Bild.png)
 
 ## Sie legen einen Computer, Benutzer, etc. im Attribut-Editor an und überprüfen diese. 
-1. öffnen in MMC [![Mein Bild](https://example.com/mein-bild.png)](https://github.com/benutzername/repository)
-2. öffnen in MMC [![Mein Bild](https://example.com/mein-bild.png)](https://github.com/benutzername/repository)
-3. öffnen in MMC [![Mein Bild](https://example.com/mein-bild.png)](https://github.com/benutzername/repository)
+1. AD Users and COmputers [![Mein Bild](https://github.com/davidbuerge1/M159/blob/main/Bilder/Unbenanntes%20Bild%203.png)](https://github.com/davidbuerge1/M159/blob/main/Bilder/Unbenanntes%20Bild%203.png)
 
 
 ## Sie verstehen die Wechselwirkung zwischen Schema- und Attribut-Editor.
